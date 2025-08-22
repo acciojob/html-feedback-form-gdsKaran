@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+form label,
+form input {
+  display: block;
+  margin: 8px 0;
+}
